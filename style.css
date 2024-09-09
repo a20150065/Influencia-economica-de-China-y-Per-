@@ -1,0 +1,43 @@
+html {
+height: 100%;
+width: 100%;
+}
+body {
+background-color: #d21414;
+}
+div{
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 30px;
+}
+.imagen img{
+height: 400px;
+}
+.titulo h1{
+color: white;
+font-size: 50px;
+text-align: center;
+font-family:'Buxton Sketch';
+}
+.enlace p{
+font-size: 30px;
+text-align: center;
+font-family:'Forte';
+}
+.subtitulo p{
+  color: #b9e41b;
+  font-size: 40px;
+  text-align: left;
+  font-family:'Buxton Sketch';
+}
+.descripcion{
+  align-items: left;
+  justify-content: left;
+}
+.descripcion p{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  font-family:'Forte';
+}
